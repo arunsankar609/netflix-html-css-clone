@@ -1,0 +1,205 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+.mainheader{
+    
+    
+    width: 100%;
+    
+
+}
+.headertop{
+    background-image: url(1.jpg);
+    height: 901px;
+    
+    display: flex;
+    
+    flex-direction: row;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    justify-content: space-between;
+}
+.buttn{
+    background-color: #d40000; 
+    border: none;
+    color: white;
+    margin-right: 120px;
+    margin-top: 27px;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  .dropbtn {
+    background-color: #000000;
+    color: white;
+    margin-left: 1429px;
+    margin-top: 26px;
+    width: 124px;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+  }
+  .secondheader{
+    color: white;
+    text-align: center;
+    
+  }
+  .buttonred{
+    background-color: #d40000; 
+    border: none;
+    color: white;
+    margin-right: 120px;
+    margin-top: 27px;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    height: 34px;
+    width: 124px;
+    padding-top: 25px;
+
+  }
+  .Enjoyyourtv{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+      color: aliceblue;
+      margin-top: 181px;
+      width: 100%;
+      background-color: black;
+      border: 8px solid #272727;
+      border-left: 0ex;
+      border-right: 0ex;
+
+      
+  }
+  .left-section1{
+     padding-left: 407px;
+  }
+ .right-section2{
+    padding-right: 336px;
+ }
+ .downloadyourshows{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+      color: aliceblue;
+      margin-top:  0px;
+      width: 100%;
+      background-color: black;
+      border: 8px solid #272727;
+      border-left: 0ex;
+      border-right: 0ex;
+
+ }
+ .left-section01{
+    padding-left: 407px;
+ }
+.right-section02{
+   padding-right: 336px;
+}
+.saif{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+      color: aliceblue;
+      margin-top:  0px;
+      width: 100%;
+      background-color: black;
+      border: 8px solid #272727;
+      border-left: 0ex;
+      border-right: 0ex;
+
+}
+.left-section001{
+    padding-left: 407px;
+ }
+.right-section002{
+   padding-right: 336px;
+}
+.childern{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+      color: aliceblue;
+      margin-top:  0px;
+      width: 100%;
+      background-color: black;
+      border: 8px solid #272727;
+      border-left: 0ex;
+      border-right: 0ex;
+
+}
+.childern01{
+    padding-left: 407px;
+
+}
+.right-childern02{
+    padding-right: 336px;
+
+}
+.FAQ{
+    margin-top:  0px;
+    
+    color: aliceblue;
+    
+    width: 100%;
+    background-color: black;
+    border: 8px solid #272727;
+    border-left: 0ex;
+    border-right: 0ex;
+
+}
+.sqaurebox{
+  width: 40%;
+  height: 47px;
+  padding: 7px;
+  margin-left: 614px;
+  background-color: #272727;
+  text-align: center;
+  border: 8px solid #000000;
+  font-size: 38px
+}
+.footer-finalclass{
+  margin: 0;
+  margin-top: -19px;
+  height: 424px;
+      color: aliceblue;
+      margin-top:  0px;
+      width: 100%;
+      background-color: black;
+     
+      border-left: 0ex;
+      border-right: 0ex;
+
+}
+.footerlast{
+  margin-top: -92px;
+  line-height: 48px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    padding: 125px;
+  
+}
+.finalbtn{
+  margin-top: -94px;
+  
+}
+.dropbtn1{
+  background-color: #000000;
+  color: white;
+  margin-left: 1429px;
+  margin-left: 394px;
+  margin-top: -40px;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+border: 3px solid white;
+}
